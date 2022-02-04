@@ -1,7 +1,7 @@
 {
     "montaña": [
         {
-            "Ref":"AA1",
+            "Ref":"0",
             "Marca":"AA",
             "Modelo":"A1",
             "Precio":"1.000",
@@ -9,7 +9,7 @@
             "Extras": [{"nombre":"Soporte Movil", "precio":"50€"},{"nombre":"Soporte Botella", "precio":"70€"},{"nombre":"Cuerdas", "precio":"100€"}]
         },
         {
-            "Ref":"BB1",    
+            "Ref":"1",    
             "Marca":"BB",
             "Modelo":"B1",
             "Precio":"1.200€",
@@ -17,7 +17,7 @@
             "Extras": [{"nombre":"Soporte Movil", "precio":"50€"},{"nombre":"Soporte Botella", "precio":"70€"},{"nombre":"Cuerdas", "precio":"100€"}]
         },
         {
-            "Ref":"CC1",
+            "Ref":"2",
             "Marca":"CC",
             "Modelo":"C1",
             "Precio":"900€",
@@ -27,7 +27,7 @@
     ],
     "electrico": [
         {
-            "Ref":"AA2",
+            "Ref":"0",
             "Marca":"AA",
             "Modelo":"A2",
             "Precio":"1.800€",
@@ -35,7 +35,7 @@
             "Extras": [{"nombre":"Soporte Movil", "precio":"50€"},{"nombre":"Soporte Botella", "precio":"70€"},{"nombre":"Cuerdas", "precio":"100€"}]
         },
         {
-            "Ref":"BB2",
+            "Ref":"1",
             "Marca":"BB",
             "Modelo":"B2",
             "Precio":"2.000€",
@@ -43,7 +43,7 @@
             "Extras": [{"nombre":"Soporte Movil", "precio":"50€"},{"nombre":"Soporte Botella", "precio":"70€"},{"nombre":"Cuerdas", "precio":"100€"}]
         },
         {
-            "Ref":"CC2",
+            "Ref":"2",
             "Marca":"CC",
             "Modelo":"C2",
             "Precio":"3.000€",
